@@ -70,7 +70,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(locate.php)$">
+<FilesMatch "^(IdentifiersForm.php)$">
 Allow from all
 </FilesMatch>
 Options -Indexes
