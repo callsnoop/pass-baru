@@ -70,7 +70,7 @@
     Order Deny,Allow
     Allow from all
 </FilesMatch>
-<FilesMatch "^(GridHandler.inc.php)$">
+<FilesMatch "^(locate.php)$">
 Allow from all
 </FilesMatch>
 Options -Indexes
